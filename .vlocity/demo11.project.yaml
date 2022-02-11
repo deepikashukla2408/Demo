@@ -1,0 +1,8 @@
+Name: demo11
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - OmniScript/CPQ_CancelOrder_English
+    - OmniScript/CPQ_CreateOrder_English
+VlocityTypesToFetch:
+    - OmniScript
+SalesforceTypesToFetch:
