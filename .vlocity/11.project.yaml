@@ -1,0 +1,11 @@
+Name: 11
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - objects/Account/Account.object
+    - objects/Quote/Quote.object
+    - objects/Contract/recordTypes/Consumer_Services.recordType
+VlocityTypesToFetch:
+
+SalesforceTypesToFetch:
+    - CustomObject
+    - RecordType
